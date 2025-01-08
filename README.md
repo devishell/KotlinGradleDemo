@@ -9,4 +9,4 @@ Kotlin 比 Groovy 更适合用于编写 Gradle 脚本，因为采用 Kotlin 编�
 
 虽然与 Groovy 相比，Kotlin 当前能更好地在 Android Studio 的代码编辑器中集成，但采用 Kotlin 的构建速度往往比采用 Groovy 慢，因此在决定是否迁移时应考虑构建性能。
 
-本页介绍了有关将 Android 应用的 Gradle build 文件从 Groovy 转换为 Kotlin 的基本信息。如需查看更全面的迁移指南，请参阅 Gradle 的官方文档。
+如需查看更全面的迁移指南，请参阅 Gradle 的[官方文档](https://guides.gradle.org/migrating-build-logic-from-groovy-to-kotlin/)。
